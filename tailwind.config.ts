@@ -15,6 +15,19 @@ const config: Config = {
       },
     },
   },
+
+  colors: {
+    cmsBlue: "#1F77B4",
+    cmsLightBlue: "#AEC7E8",
+    cmsYellow: "#FF7F0E",
+    lamasky: "#C3EBFA",
+    lamaSkyLight: "#EDFOFD",
+    lamaPurple: "#CFCEFF",
+    lamaPurpleLight: "#F1FFF",
+    lamaYellow: "#FAE27C",
+    lamaYellowLight:"#FEFCES",
+
+  },
   plugins: [],
 };
 export default config;
